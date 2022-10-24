@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 523ba00f6a7eb1f4e8c130b6ff957568
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7401597365613437681
+    second: Isometric_MedievalFantasy_Tiles_0
+  - first:
+      213: 6827237486290818563
+    second: Isometric_MedievalFantasy_Tiles_1
+  - first:
+      213: -7000211038564501680
+    second: Isometric_MedievalFantasy_Tiles_2
+  - first:
+      213: 2576077561100261014
+    second: Isometric_MedievalFantasy_Tiles_3
+  - first:
+      213: -2660015859045283293
+    second: Isometric_MedievalFantasy_Tiles_4
+  - first:
+      213: -2098597665323290509
+    second: Isometric_MedievalFantasy_Tiles_5
+  - first:
+      213: -7940657911628302716
+    second: Isometric_MedievalFantasy_Tiles_6
+  - first:
+      213: 5767359726489470585
+    second: Isometric_MedievalFantasy_Tiles_7
+  - first:
+      213: -4660748518257407462
+    second: Isometric_MedievalFantasy_Tiles_8
+  - first:
+      213: 8258781335015932399
+    second: Isometric_MedievalFantasy_Tiles_9
+  - first:
+      213: -4719289545455706666
+    second: Isometric_MedievalFantasy_Tiles_10
+  - first:
+      213: 8310312948776840768
+    second: Isometric_MedievalFantasy_Tiles_11
+  - first:
+      213: 8808137289527317719
+    second: Isometric_MedievalFantasy_Tiles_12
+  - first:
+      213: 7326271892637236120
+    second: Isometric_MedievalFantasy_Tiles_13
+  - first:
+      213: -9166896149604634654
+    second: Isometric_MedievalFantasy_Tiles_14
+  - first:
+      213: 3401057284424837651
+    second: Isometric_MedievalFantasy_Tiles_15
+  - first:
+      213: -4343444657107832969
+    second: Isometric_MedievalFantasy_Tiles_16
+  - first:
+      213: -9161139751600948302
+    second: Isometric_MedievalFantasy_Tiles_17
+  - first:
+      213: 1817998490898704807
+    second: Isometric_MedievalFantasy_Tiles_18
+  - first:
+      213: -8479270946802856207
+    second: Isometric_MedievalFantasy_Tiles_19
+  - first:
+      213: -3232258526632039948
+    second: Isometric_MedievalFantasy_Tiles_20
+  - first:
+      213: 3580922416806384956
+    second: Isometric_MedievalFantasy_Tiles_21
+  - first:
+      213: -1608008311667981770
+    second: Isometric_MedievalFantasy_Tiles_22
+  - first:
+      213: -3119601014371361367
+    second: Isometric_MedievalFantasy_Tiles_23
+  - first:
+      213: -5217295103659865929
+    second: Isometric_MedievalFantasy_Tiles_24
+  - first:
+      213: 7874609417490879617
+    second: Isometric_MedievalFantasy_Tiles_25
+  - first:
+      213: -8981296821139146592
+    second: Isometric_MedievalFantasy_Tiles_26
+  - first:
+      213: 6555614936758952612
+    second: Isometric_MedievalFantasy_Tiles_27
+  - first:
+      213: -7262456480227634156
+    second: Isometric_MedievalFantasy_Tiles_28
+  - first:
+      213: -8751702287907626753
+    second: Isometric_MedievalFantasy_Tiles_29
+  - first:
+      213: -8828006932438182138
+    second: Isometric_MedievalFantasy_Tiles_30
+  - first:
+      213: 1898651164276741911
+    second: Isometric_MedievalFantasy_Tiles_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f22bd3b691c7b660800000000000000
+      internalID: 7401597365613437681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306589f42583fbe50800000000000000
+      internalID: 6827237486290818563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057389d26214ade90800000000000000
+      internalID: -7000211038564501680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 156
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6965c37a4e010c320800000000000000
+      internalID: 2576077561100261014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a43b86ba9b51bd0800000000000000
+      internalID: -2660015859045283293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370f0ffca8840e2e0800000000000000
+      internalID: -2098597665323290509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 139
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486ff7663bd1dc190800000000000000
+      internalID: -7940657911628302716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 139
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9768c4d4d17c90050800000000000000
+      internalID: 5767359726489470585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 120
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac6d59ae1b15fb0800000000000000
+      internalID: -4660748518257407462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe140470ed51d9270800000000000000
+      internalID: 8258781335015932399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 120
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd5ea8927b18eb0800000000000000
+      internalID: -4719289545455706666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 176
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e2c24d899245370800000000000000
+      internalID: 8310312948776840768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 103
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4d523823acc3a70800000000000000
+      internalID: 8808137289527317719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 103
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b329858752ca560800000000000000
+      internalID: 7326271892637236120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 176
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6bed2584a8c080800000000000000
+      internalID: -9166896149604634654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 176
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa5e2a49bf23f20800000000000000
+      internalID: 3401057284424837651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe48fc81cf8b3c0800000000000000
+      internalID: -4343444657107832969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7d180fe71dd080800000000000000
+      internalID: -9161139751600948302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a63ccef3da3910800000000000000
+      internalID: 1817998490898704807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe868dbff3935a80800000000000000
+      internalID: -8479270946802856207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9aed9cef5b423d0800000000000000
+      internalID: -3232258526632039948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c355afd27fdf1b130800000000000000
+      internalID: 3580922416806384956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632872bc5f43fa9e0800000000000000
+      internalID: -1608008311667981770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad5271e763f4b4d0800000000000000
+      internalID: -3119601014371361367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b808f1eeb17897b0800000000000000
+      internalID: -5217295103659865929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845d723b8b384d60800000000000000
+      internalID: 7874609417490879617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f7a940260c5380800000000000000
+      internalID: -8981296821139146592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a223c54d093afa50800000000000000
+      internalID: 6555614936758952612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4145c433f42963b90800000000000000
+      internalID: -7262456480227634156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ea4d3325bb8680800000000000000
+      internalID: -8751702287907626753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607165db77e9c7580800000000000000
+      internalID: -8828006932438182138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_MedievalFantasy_Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d817ac2d595a10800000000000000
+      internalID: 1898651164276741911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
