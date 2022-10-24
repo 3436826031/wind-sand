@@ -2584,8 +2584,9 @@ GameObject:
   - component: {fileID: 824973725}
   - component: {fileID: 824973727}
   - component: {fileID: 824973728}
+  - component: {fileID: 824973729}
   m_Layer: 0
-  m_Name: IsometricTRPGAssetPack_OutlinedEntities (1)_33 (2)
+  m_Name: PlayerItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2668,6 +2669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42036ed8e2a7ff64e88da69ae7d8a7ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 0}
 --- !u!61 &824973728
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2694,6 +2696,25 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.625, y: 0.75}
   m_EdgeRadius: 0
+--- !u!95 &824973729
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 824973724}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b281f7a7dd2d06a418bf9b7be26e854a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &930658989
 GameObject:
   m_ObjectHideFlags: 0
