@@ -265,6 +265,9 @@
     <Reference Include="UnityEditor.iOS.Extensions">
       <HintPath>D:/SoftWare/Unity/Unity2019.4.2/Unity2019new/2019.4.20f1c1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
     <Reference Include="DemiLib">
       <HintPath>C:/GameJam/home/Assets/Plus/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
     </Reference>
@@ -282,9 +285,6 @@
     </Reference>
     <Reference Include="DOTweenProEditor">
       <HintPath>C:/GameJam/home/Assets/Plus/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
-      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>C:/GameJam/home/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
