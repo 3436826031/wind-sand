@@ -7,9 +7,6 @@ public class PlayerItem : MonoBehaviour
 {
     public Animator animator;
     
-
-  
-
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -30,4 +27,17 @@ public class PlayerItem : MonoBehaviour
     {
         
     }
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Water")
+        { 
+            //打开操控界面 添加取水按钮
+            
+        
+        }
+    }
+
+
 }
