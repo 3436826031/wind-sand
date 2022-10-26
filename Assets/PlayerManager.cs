@@ -15,4 +15,11 @@ public class PlayerManager : MonoBehaviour
     {
         
     }
+
+
+
+
+    //每一个回合结束  植物长高一次
+
+
 }

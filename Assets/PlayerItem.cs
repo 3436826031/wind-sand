@@ -30,4 +30,29 @@ public class PlayerItem : MonoBehaviour
     {
         
     }
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+
+        if (collision.tag.Equals("plant")) {
+            //出现采集指示灯
+            print("可以采集");
+            Controller.instance.type = 1;
+            Controller.instance.upControllerUI( "采集");
+            Controller.instance.nowItem = collision.gameObject;
+        
+        }
+
+
+        if (collision.tag.Equals("water")) {
+
+            Controller.instance.type = 2;
+            Controller.instance.upControllerUI("采水");
+            Controller.instance.nowItem = collision.gameObject;
+        }
+
+
+    }
+
 }

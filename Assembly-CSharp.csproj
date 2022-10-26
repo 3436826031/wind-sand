@@ -82,6 +82,7 @@
     <Compile Include="Assets\Plus\Demigiant\DOTweenPro\DOTweenTextMeshPro.cs" />
     <Compile Include="Assets\Plus\Demigiant\DOTweenPro\DOTweenTk2d.cs" />
     <Compile Include="Assets\Script\Mood.cs" />
+    <Compile Include="Assets\Script\RoundManger.cs" />
     <None Include="Assets\Plus\Demigiant\readme_DOTweenPro.txt" />
     <None Include="Assets\Plus\Demigiant\DOTweenPro\readme.txt" />
     <None Include="Assets\Plus\Demigiant\DemiLib\Core\DemiLib.xml" />
