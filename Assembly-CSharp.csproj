@@ -65,6 +65,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Controller.cs" />
+    <Compile Include="Assets\CtrlMenu.cs" />
+    <Compile Include="Assets\ItemManager.cs" />
+    <Compile Include="Assets\MenuManager.cs" />
+    <Compile Include="Assets\Mess.cs" />
     <Compile Include="Assets\PlayerItem.cs" />
     <Compile Include="Assets\PlayerManager.cs" />
     <Compile Include="Assets\Plus\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
