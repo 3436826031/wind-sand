@@ -32,12 +32,30 @@ public class Controller : MonoBehaviour
 
     public PlayerItem[] playerItems;
 
+    public GameObject zimuText;
+
 
     public Text tip;
     // Use this for initialization
     void Start()
     {
         instance = this;
+    
+    
+    }
+
+
+
+    public void zimuStart() {
+        zimuText.GetComponent<Animator>().SetBool("zimu",true);
+    
+    }
+
+
+
+    public void zimuEnd() {
+        zimuText.GetComponent<Animator>().SetBool("zimu", true);
+
     }
 
 
@@ -45,6 +63,7 @@ public class Controller : MonoBehaviour
 
         ControlUI.gameObject.transform.DOLocalMoveY(411.93f,0.5f);
         ctrlMenu.Menu1.gameObject.SetActive(true);
+
         //ctrlChoose.gameObject.SetActive(true);
         ctrlChoose.text = txt;
         //controlUI.GetComponent<Animator>().SetBool("up", true);
@@ -54,12 +73,17 @@ public class Controller : MonoBehaviour
 
     public void upControllerUI()
     {
+
+        if (RoundManger.instance.diansu >= 1) {
+
+            ctrlMenu.Menu3.SetActive(true);
+        }
+
         ctrlMenu.Menu1.gameObject.SetActive(false);
         canPlayeritem = false;
         if (type == 1)
         {
             ctrlMenu.Menu1.gameObject.SetActive(true);
-            
             ctrlChoose.text = "采集";
             
         }
@@ -197,15 +221,31 @@ public class Controller : MonoBehaviour
 
 
 
-
+    /** 移动   */
     public  void move() {
         print("进入指令");
 
         //进入指令了
         commond = 1;
+        controlUInew.GetComponent<Animator>().SetBool("open", false);        controlUInew.GetComponent<Animator>().SetBool("close", true);
 
-        controlUInew.GetComponent<Animator>().SetBool("open", false);
-        controlUInew.GetComponent<Animator>().SetBool("close", true);
+
+    }
+
+
+
+
+
+
+    /**  种植 */
+    public void grow() {
+
+        commond = 2;
+
+        print("开始种植");
+
+        //生成一个预制体
+
 
 
 
@@ -321,7 +361,7 @@ public class Controller : MonoBehaviour
     {
 
         showText.text = text;
-
+       
         Invoke("sideShowDiText", 3f);
     }
 
@@ -343,6 +383,21 @@ public class Controller : MonoBehaviour
     public void sideShowDiText() {
 
         showText.text = "";
+    
+    }
+
+
+    public Text startA;
+    public Text startB;
+
+    public void StartGame() {
+
+        startA.gameObject.SetActive(false);
+        startB.gameObject.SetActive(false);
+
+        //Camera.main.DORect(5.5f,0.8f);
+       // Camera.main.DOFieldOfView(5.5f, 0.8f);
+    
     
     }
 

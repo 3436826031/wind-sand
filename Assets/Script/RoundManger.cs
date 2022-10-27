@@ -30,7 +30,7 @@ public class RoundManger : MonoBehaviour
     public GameObject backRound;
 
 
-    int diansu = 0;
+   public int diansu = 0;
 
     public void jianshao() {
 
@@ -41,6 +41,8 @@ public class RoundManger : MonoBehaviour
             backRound.transform.DOLocalMoveX(sunDisn[diansu+1].position.x,0.9f);
 
             diansu++;
+            Controller.instance.zimuStart();
+
         
         }
     
